@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rahul Agarwal.
-- 👀 I’m interested in `Data Science and Machine Learning`.
-- 👨‍💻 I am currently working in Infosys.Ltd as a `Data Analyst`.
-- 🌱 I’m currently learning `Deep Learning and NLP`.
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 👀 I’m interested in `Data/AI Engineering, Physical AI, GenAI, LLMs, Agentic AI`.
+- 👨‍💻 I am currently working in AT&T as a `Data/AI Engineer`.
+- 🌱 I’m currently learning `Applied AI and Physical AI`.
+- 💞️ I’m looking to collaborate on Applied AI Projects.
 - 📫 How to reach me ? Email at 97rahul.agarwal@gmail.com.
 
 <!---
